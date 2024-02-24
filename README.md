@@ -1,16 +1,1 @@
-# aerofarm
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The repository below is our work in progress for AEROFARM, an app that connects to IoT devices for automated plant maintenance in aeroponic systems, which are more water-efficient, soil-free, and pesticide-free than conventional agriculture. Our app allows users to add new plants, scan devices, and customize settings for optimal growth conditions. Our AI monitors and adjusts the parameters and logs the activities. Our app also shows the status of the devices and their power consumption. We plan to use Flutter, Google Cloud AI, Gemini, Firebase, and solar panels to build a multiplatform, eco-friendly, and scalable app that supports sustainable development.
